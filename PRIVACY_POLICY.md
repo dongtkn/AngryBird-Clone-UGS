@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Project Name:** [AngryBirdCustom]  
+**Project Name:** AngryBirdCustom 
 **Developer:** dongtkn 
 **Last Updated:** 2026
 
