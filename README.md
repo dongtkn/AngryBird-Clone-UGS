@@ -2,7 +2,7 @@
 
 A fully functional 2D Angry Birds clone built with **Unity 6**, featuring **Google Authentication** and real-time global **Leaderboards** powered by **Unity Gaming Services (UGS)**.
 
-![Gameplay Demo](docs/gameplay.gif)
+![Gameplay Demo](./gameplay.gif)
 
 ---
 
