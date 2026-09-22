@@ -41,7 +41,7 @@ Building this project was a major milestone in my Unity development journey. Bey
 
 ---
 
-## 🔮 Future Improvements & Roadmap
+## Future Improvements & Roadmap
 To further enhance the gameplay experience and technical depth, I plan to work on:
 - [ ] **Special Bird Abilities:** Introduce new bird types with unique abilities (e.g., speed boost, explosive impact, splitting in mid-air).
 - [ ] **Cloud Save Integration:** Sync player progression (unlocked levels and star ratings) across devices using UGS Cloud Save.
