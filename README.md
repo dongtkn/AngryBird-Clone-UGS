@@ -31,7 +31,6 @@ This project showcases core 2D game development practices, physical trajectory m
 * **Score System:** Dynamic scoring algorithm calculated based on shot efficiency.
 
 ---
----
 
 ## Key Learnings & Personal Reflections
 Building this project was a major milestone in my Unity development journey. Beyond implementing core game mechanics, it provided valuable hands-on experience with backend integration and clean C# architecture:
